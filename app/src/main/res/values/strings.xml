@@ -2,4 +2,7 @@
     <string name="app_name">intent</string>
     <string name="button_increase">+</string>
     <string name="button_decrease">-</string>
+    <string name="textview_number">Number</string>
+    <string name="textview_text">Text</string>
+    <string name="button_next">Next</string>
 </resources>
